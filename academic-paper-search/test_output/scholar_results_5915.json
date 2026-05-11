@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Machine learning",
+    "authors": "ZH Zhou",
+    "year": "",
+    "venue": "NA",
+    "citations": 3752,
+    "url": "https://books.google.com/books?hl=en&lr=&id=ctM-EAAAQBAJ&oi=fnd&pg=PR6&dq=machine+learning&ots=o_PpX5Xv4o&sig=1a_OH-eyxS3kSKZF-ktYcgig8KY",
+    "pdf_url": "",
+    "abstract": "from data is called learning or training. The  machine learning is to find or approximate  ground-truth. In this book, models are sometimes called learners, which are machine learning"
+  },
+  {
+    "title": "Machine learning",
+    "authors": "E Alpaydin",
+    "year": "",
+    "venue": "NA",
+    "citations": 1672,
+    "url": "https://books.google.com/books?hl=en&lr=&id=Eyk5EAAAQBAJ&oi=fnd&pg=PA1&dq=machine+learning&ots=WRzRfe0kwL&sig=VAAJNThO3koOYOHjVIt-PFXqdNE",
+    "pdf_url": "https://cs.pomona.edu/~dkauchak/classes/s16/cs30-s16/lectures/lecture12-NN-basics.pdf",
+    "abstract": "MIT presents a concise primer on machine learning—computer programs that learn from  data and the basis of applications like voice recognition and driverless cars. No in-depth",
+    "pdf_path": "./test_output\\Machine learning.pdf"
+  },
+  {
+    "title": "Machine learning: Trends, perspectives, and prospects",
+    "authors": "MI Jordan, TM Mitchell",
+    "year": "",
+    "venue": "Science",
+    "citations": 14850,
+    "url": "https://www.science.org/doi/abs/10.1126/science.aaa8415",
+    "pdf_url": "http://www.cs.cmu.edu/~tom/pubs/Science-ML-2015.pdf",
+    "abstract": "Machine learning addresses the question of how to build computers that improve  Recent  progress in machine learning has been driven both by the development of new learning",
+    "pdf_path": "./test_output\\Machine learning Trends perspectives and prospects.pdf"
+  }
+]
